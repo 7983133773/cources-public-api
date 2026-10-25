@@ -1,0 +1,19 @@
+{
+  "language": "tamil",
+  "table": "courses_tamil",
+  "count": 2,
+  "data": [
+    {
+      "course_id": 1,
+      "course_name": "பொது காப்பீடு",
+      "sort": 1,
+      "isactive": "1"
+    },
+    {
+      "course_id": 2,
+      "course_name": "ஆயுள் காப்பீடு",
+      "sort": 2,
+      "isactive": "1"
+    }
+  ]
+}

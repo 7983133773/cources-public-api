@@ -1,0 +1,19 @@
+{
+  "language": "telugu",
+  "table": "courses_telugu",
+  "count": 2,
+  "data": [
+    {
+      "course_id": 1,
+      "course_name": "సాధారణ భీమా",
+      "sort": 1,
+      "isactive": "1"
+    },
+    {
+      "course_id": 2,
+      "course_name": "జీవిత భీమా",
+      "sort": 2,
+      "isactive": "1"
+    }
+  ]
+}

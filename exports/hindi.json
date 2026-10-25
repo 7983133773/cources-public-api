@@ -1,0 +1,19 @@
+{
+  "language": "hindi",
+  "table": "courses_hindi",
+  "count": 2,
+  "data": [
+    {
+      "course_id": 1,
+      "course_name": "सामान्य बीमा",
+      "sort": 1,
+      "isactive": "1"
+    },
+    {
+      "course_id": 2,
+      "course_name": "जीवन बीमा",
+      "sort": 2,
+      "isactive": "1"
+    }
+  ]
+}
